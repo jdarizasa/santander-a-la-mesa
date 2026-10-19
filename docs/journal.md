@@ -1,6 +1,6 @@
 ## Week 1
-- Define the direction of the problem
-- Set spatio-temporal limits of analysis
+- Define the direction of the problem (Food - Weather - Poverty - Roads - Public Investment)
+- Set spatio-temporal limits of analysis (2025 - Santander)
 - Build basic structure in GitHub
 - Find source of information
 
@@ -14,5 +14,8 @@
   * [Peajes](https://www.datos.gov.co/Transporte/Peajes/68qj-5xux/about_data)
   * [Mapa Inversiones DNP](https://www.datos.gov.co/Econom-a-y-Finanzas/DNP-SeguimientoProyecto/7mxf-bp6x/about_data)
   * [Red de Seguridad Alimentaria](https://www.datos.gov.co/Inclusi-n-Social-y-Reconciliaci-n/Beneficiarios-Red-de-Seguridad-Alimentaria-ReSA/5m78-fkmq/about_data)
-  * [Indice de Pobreza Multidimensional - IPM- 2025](https://www.datos.gov.co/dataset/Indice-de-Pobreza-Multidimensional-IPM-2025/vjih-49w8/about_data): This one has no API so special treatment is required
-  * [Encuesta Nacional de Calidad de Vida - ECV - 2025](https://www.datos.gov.co/dataset/Encuesta-Nacional-de-Calidad-de-Vida-ECV-2025/q7pm-4a7m/about_data): This one has no API so special treatment is required
+  * [Indice de Pobreza Multidimensional - IPM- 2025](https://www.datos.gov.co/dataset/Indice-de-Pobreza-Multidimensional-IPM-2025/vjih-49w8/about_data)
+  * [Encuesta Nacional de Calidad de Vida - ECV - 2025](https://www.datos.gov.co/dataset/Encuesta-Nacional-de-Calidad-de-Vida-ECV-2025/q7pm-4a7m/about_data)
+
+## Week 3
+- Define the output 
