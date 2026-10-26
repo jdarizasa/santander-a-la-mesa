@@ -18,4 +18,5 @@
   * [Encuesta Nacional de Calidad de Vida - ECV - 2025](https://www.datos.gov.co/dataset/Encuesta-Nacional-de-Calidad-de-Vida-ECV-2025/q7pm-4a7m/about_data)
 
 ## Week 3
-- Define the output 
+- Define the output
+- Add basic structure files
