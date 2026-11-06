@@ -20,3 +20,14 @@
 ## Week 3
 - Define the output
 - Add basic structure files
+
+## Week 4
+- Initialize ETL structure with 3 layers:
+  - Scripts
+  - Parquet + DuckDB
+  - Github Actions
+
+- Try the API Socrata: working
+
+## Week 5
+- Write all fetch scripts
