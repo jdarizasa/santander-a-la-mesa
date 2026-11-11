@@ -6,9 +6,9 @@ import requests
 import pandas as pd
 
 BASE_URL = "https://www.datos.gov.co/resource/{dataset_id}.json"
-DATASET_ID = "2pnw-mmge"
+DATASET_ID = "uejq-wxrr"
 
-WHERE = "departamento = 'CUNDINAMARCA' AND a_o = 2018"
+WHERE = "departamento = 'Santander' AND a_o = 2025"
 
 def fetch_santander_2025(dataset_id, where_clause):
     url = BASE_URL.format(dataset_id=dataset_id)
@@ -47,3 +47,5 @@ def fetch_santander_2025(dataset_id, where_clause):
 df = fetch_santander_2025(DATASET_ID, WHERE)
 print(df.shape)
 print(df.head())
+
+df.to_parquet("santander.parquet", engine='pyarrow')
